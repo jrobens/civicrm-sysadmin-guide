@@ -35,6 +35,7 @@ Optionally provide a description for the payment processor, and indicate if the 
 | Paymex                                                           | Extension | External | No         | NZ         | No        |
 | [Ogone](/setup/payment-processors/ogone.md)                      | Extension |          |            |            | No        |
 | eWay                                                             | Extension | SSL      | Partial    | AU         |           |
+| Commweb (https://github.com/jrobens/civicrm-extension-migs) .    | Extension | SSL      | No .       | AU .       |           |
 | [First Data](/setup/payment-processors/first-data.md)            | Extension | SSL      | No         |            |           |
 | Elavon / Nova                                                    | Extension | SSL      | No         |            |           |
 | World Pay                                                        | Extension |          |            |            |           |
